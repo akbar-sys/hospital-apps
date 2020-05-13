@@ -1,6 +1,6 @@
 <template>
   <Single :title="title" :subtitle="subtitle">
-      <h1 class="title">Sayarat Penggunaan</h1>
+      <h1 class="title">Syarat Penggunaan</h1>
       <p>Situs ini dan semua situs bawahannya dipublikasikan dan dipertahankan oleh Le Hospitale Kelompok 6, anda membuka situs ini menunjukkan bahwa anda setuju untuk menerima syarat yang tertulis dalam ketentuan hukum. Jika anda tidak menerima syarat tersebut, mohon berhenti buka situs ini.</p>
       <p>Pihak kami bisa saja memperbarui atau memperbaiki syarat penggunaan sewaktu-waktu. Maka dari itu, setiap kali anda membuka situs ini, seharusnya juga membaca halaman syarat penggunaan. Apabila setelah perusahaan kami mengganti atau memperbaiki syarat ketentuan anda lanjut menggunakan situs ini, juga menunjukkan bahwa anda setuju untuk menerima syarat penggunaan yang baru.</p>
       <h1 class="title">Hak Cipta</h1>
