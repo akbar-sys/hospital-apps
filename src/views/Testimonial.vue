@@ -51,7 +51,7 @@ export default {
                 {user: 'Jumina', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
                 {user: 'Cahyani', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
                 {user: 'Jihan', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
-                {user: 'Silvy', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
+                {user: 'Silvi', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
                 {user: 'R', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
                 {user: 'Sakti', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
                 {user: 'Pujo', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
