@@ -45,17 +45,17 @@ export default {
             title: "Testimoni",
             subtitle: "lorem dalam situs website ini.",
             testimonial: [
-                {user: 'Andika', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
-                {user: 'Akbar', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
-                {user: 'Pratama', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
-                {user: 'Jumina', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
-                {user: 'Cahyani', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
-                {user: 'Jihan', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
-                {user: 'Silvi', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
-                {user: 'R', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
-                {user: 'Sakti', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
-                {user: 'Pujo', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'},
-                {user: 'Edi', msg: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt consectetur adipisicing elit. Sequi?'}
+                {user: 'Andika', msg: 'Pelayanannya bagus!'},
+                {user: 'Akbar', msg: 'Jadwal Dokter yang diberikan sangat membantu!'},
+                {user: 'Pratama', msg: 'Respon sangat cepat!'},
+                {user: 'Jumina', msg: 'Informasi yang diberikan sangat lengap!'},
+                {user: 'Cahyani', msg: 'Rumah Sakitnya bagus!'},
+                {user: 'Jihan', msg: 'Dokter, Perawat, dan Petugasnya semua sangat baik dan ramah.'},
+                {user: 'Silvi', msg: 'Melayani pasien layaknya keluarga sendiri!'},
+                {user: 'Rahma', msg: 'Penanganannya cepat dan akurat!'},
+                {user: 'Sakti', msg: Pelayanan terbaik tanpa membeda-bedakan.''},
+                {user: 'Pujo', msg: 'Pelayanannya sangat responsif!'},
+                {user: 'Edi', msg: 'Fasilitasnya sangat lengkap!'}
             ]
         }
     }
