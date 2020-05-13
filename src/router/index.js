@@ -1,10 +1,16 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import NotFound from '../views/NotFound.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
+  {
+    path: '*',
+    name: '404',
+    component: NotFound
+  },
   {
     path: '/',
     name: 'Home',
@@ -26,6 +32,11 @@ const routes = [
     component: () => import(/* webpackChunkName: "page" */ '../views/Disclaimer.vue')
   },
   {
+    path: '/testimoni',
+    name: 'Testimonial',
+    component: () => import(/* webpackChunkName: "page" */ '../views/Testimonial.vue')
+  },
+  {
     path: '/termnconditions',
     name: 'TermnConditions',
     component: () => import(/* webpackChunkName: "page" */ '../views/TermnConditions.vue')
@@ -36,6 +47,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "page" */ '../views/PrivacyPolicy.vue')
   }
 ]
+
 
 const router = new VueRouter({
   mode: 'history',
@@ -48,8 +60,7 @@ const router = new VueRouter({
       return { x: 0, y: 0 }
     }
   }
-  
-  
 })
+
 
 export default router

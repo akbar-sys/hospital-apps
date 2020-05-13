@@ -5,25 +5,33 @@
         <b-navbar class="is-spaced has-shadow is-fixed-top">
             <template slot="brand">
                 <b-navbar-item tag="router-link" :to="{ path: '/' }">
-                    <img
-                        src="https://raw.githubusercontent.com/buefy/buefy/dev/static/img/buefy-logo.png"
-                        alt="Logo"
-                    >
+                    <h1 class="title is-4 has-text-primary is-italic">Le Hospitale</h1>
                 </b-navbar-item>
             </template>
             <template slot="start">
                 <b-navbar-item tag="router-link" :to="{ path: '/' }">
-                    Home
-                </b-navbar-item>
-                <b-navbar-item tag="router-link" :to="{ path: '/' }">
                     Documentation
                 </b-navbar-item>
-                <b-navbar-dropdown class="is-hoverable" label="Info">
+                <b-navbar-dropdown class="is-hoverable" label="Company">
                     <b-navbar-item tag="router-link" :to="{ path: '/about' }">
                         About
                     </b-navbar-item>
                     <b-navbar-item tag="router-link" :to="{ path: '/testimonial' }">
                         Testimonial
+                    </b-navbar-item>
+                    <b-navbar-item tag="router-link" :to="{ path: '/contact' }">
+                        Contact Us
+                    </b-navbar-item>
+                </b-navbar-dropdown>
+                <b-navbar-dropdown class="is-hoverable" label="Help">
+                    <b-navbar-item tag="router-link" :to="{ path: '/disclaimer' }">
+                        Disclaimer
+                    </b-navbar-item>
+                    <b-navbar-item tag="router-link" :to="{ path: '/privacypolicy' }">
+                        Privacy Policy
+                    </b-navbar-item>
+                    <b-navbar-item tag="router-link" :to="{ path: '/termnconditions' }">
+                        Term & Conditions
                     </b-navbar-item>
                 </b-navbar-dropdown>
             </template>
@@ -49,9 +57,7 @@
                       <p class="title is-4">Company</p>
                       <ul>
                           <li><router-link to="/about">About Us</router-link></li>
-                          <li><a tag="router-link" :to="{ path: '/' }">Testimonial</a></li>
-                          <li><a tag="router-link" :to="{ path: '/' }">Event</a></li>
-                          <li><a tag="router-link" :to="{ path: '/' }">Career</a></li>
+                          <li><router-link to="/testimoni">Testimonial</router-link></li>
                           <li><router-link to="/contact">Contatc Us</router-link></li>
                       </ul>
                   </div>
@@ -69,8 +75,6 @@
                           <li><router-link to="/disclaimer">Disclaimer</router-link></li>
                           <li><router-link to="/privacypolicy">Privacy Policy</router-link></li>
                           <li><router-link to="/termnconditions">Term & Conditions</router-link></li>
-                          <li><a tag="router-link" :to="{ path: '/' }">Sitemaps</a></li>
-                          
                       </ul>
                   </div>
               </div>
