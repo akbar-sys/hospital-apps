@@ -16,7 +16,7 @@
                     <b-navbar-item tag="router-link" :to="{ path: '/about' }">
                         About
                     </b-navbar-item>
-                    <b-navbar-item tag="router-link" :to="{ path: '/testimonial' }">
+                    <b-navbar-item tag="router-link" :to="{ path: '/testimoni' }">
                         Testimonial
                     </b-navbar-item>
                     <b-navbar-item tag="router-link" :to="{ path: '/contact' }">
