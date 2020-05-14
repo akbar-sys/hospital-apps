@@ -53,7 +53,7 @@ export default {
                 {user: 'Jihan', msg: 'Dokter, Perawat, dan Petugasnya semua sangat baik dan ramah.'},
                 {user: 'Silvi', msg: 'Melayani pasien layaknya keluarga sendiri!'},
                 {user: 'Rahma', msg: 'Penanganannya cepat dan akurat!'},
-                {user: 'Sakti', msg: Pelayanan terbaik tanpa membeda-bedakan.''},
+                {user: 'Sakti', msg: 'Pelayanan terbaik tanpa membeda-bedakan.'},
                 {user: 'Pujo', msg: 'Pelayanannya sangat responsif!'},
                 {user: 'Edi', msg: 'Fasilitasnya sangat lengkap!'}
             ]
