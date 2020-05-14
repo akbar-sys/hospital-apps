@@ -26,7 +26,7 @@
         data() {
             return {
                 title: "Privacy & Policy",
-                subtitle: "lorem dalam situs website ini."
+                subtitle: "Kami jaga privasi anda."
             }
         }
     }
