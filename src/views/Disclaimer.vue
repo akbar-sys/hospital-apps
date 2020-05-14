@@ -16,7 +16,7 @@
         data() {
             return {
                 title: "Disclaimer",
-                subtitle: "lorem dalam situs website ini."
+                subtitle: "Orang cerdass taat hukum."
             }
         }
     }
