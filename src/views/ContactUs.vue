@@ -52,7 +52,7 @@
         data() {
             return {
                 title: "Contact Us",
-                subtitle: "lorem dalam situs website ini."
+                subtitle: "Jangan ragu menghubungi kami."
             }
         }
     }
