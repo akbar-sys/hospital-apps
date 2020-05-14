@@ -5,9 +5,9 @@
             <div class="hero-body">
                 <div class="container">
                     <h1 class="title is-1">
-                        This is about page
+                        About Us
                     </h1>
-                    <p class="subtitle is-6">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe, ullam? Non, corrupti quasi!</p>
+                    <p class="subtitle is-6">Kesehatan adalah hal paling pertama dalam semua kebebasan. -Henri Frederic Amiel</p>
                 </div>
             </div>
         </div>
