@@ -201,28 +201,28 @@
               isOpen: 0,
                 collapses: [
                 {
-                    title: 'What?',
-                    text: 'Lorem asldas als daks aksdjkals dlas.'
+                    title: 'Apa saja prosedur berobat rawat jalan menggunakan BPJS?',
+                    text: 'Untuk berobat menggunakan BPJS pasien harus membawa Katru BPJS Asli, KTP Asli, dan Surat Rujukan dari Faskes 2 (RSUD/ RS Swasta yang bekerja sama dengan BPJS).'
                 },
                 {
-                    title: 'Where?',
-                    text: 'Lorem asldas als daks aksdjkals dlas.'
+                    title: 'Bagaimana jika pasien pindah kelas rawat ke yang lebih tinggi?',
+                    text: 'Selisih biaya menjadi beban pasien dan/atau asuransi swasta yang diikuti pasien..'
                 },
                 {
-                    title: 'Who?',
-                    text: 'Lorem asldas als daks aksdjkals dlas.'
+                    title: 'Dokumen apa saja yang perlu saya bawa untuk mengambil salinan Rekam Medis saya?',
+                    text: 'Kartu identitas yang SAH dan berkekuatan hukum serta Surat pengantar yang SAH dari Pihak Perusahaan/Asuransi/Dokter/Pengacara yang membutuhkan Rekam Medis anda'
                 },
                 {
-                    title: 'When?',
-                    text: 'Lorem asldas als daks aksdjkals dlas.'
+                    title: 'Bagaimana cara dan ditujukan kepada siapa, apabila saya (Perusahaan/Asuransi/Lembaga) ingin mengajukan Perjanjian Kerja Sama dengan RS Lehospitale?',
+                    text: 'Kirimkan Draft MOU/Kerja Sama ditujukan kepada Direktur RS Lehospitale melalui Email Marketing kami : marketing@lehospitale.co.id.'
                 },
                 {
-                    title: 'Why?',
-                    text: 'Lorem asldas als daks aksdjkals dlas.'
+                    title: 'Metode pembayaran di RS Lehospitale?',
+                    text: 'Kami menerima pembayaran secara tunai, kartu debit ataupun kredit, serta asuransi dan perusahaan rekanan RS Lehospitale.'
                 },
                 {
-                    title: 'How?',
-                    text: 'Lorem asldas als daks aksdjkals dlas.'
+                    title: 'Apakah anak-anak diperbolehkan mengunjungi pasien di RS Lehospitale?',
+                    text: 'Anak-anak usia di atas 5 tahun diperbolehkan berkunjung dengan didampingi orang dewasa. Untuk beberapa area, anak-anak dilarang masuk, pengecualian dapat dilakukan dalam kasus - kasus tertentu.'
                 }
                 ]
           }
