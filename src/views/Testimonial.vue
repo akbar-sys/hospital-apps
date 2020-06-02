@@ -4,12 +4,12 @@
             <div class="column is-4" v-for="(testimoni, i) in testimonial" :key="i">
                 <div class="card">
                     <div class="card-image is-hidden-mobile">
-                        <img src="https://bulma.io/images/placeholders/1280x960.png" alt="image">
+                        <img src="../assets/testimoni.svg" alt="image">
                     </div>
                     <div class="card-content">
                         <div class="media">
                             <div class="media-left">
-                                <img src="https://bulma.io/images/placeholders/96x96.png" alt="image" class="image is-48x48">
+                                <img src="../assets/profile_logo.svg" alt="image" class="image is-48x48">
                             </div>
                             <div class="media-content">
                                 <p class="title is-4">
