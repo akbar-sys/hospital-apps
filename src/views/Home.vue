@@ -147,12 +147,12 @@
               pauseType: 'is-primary',
               interval: 3000,
               carousels: [
-                  { title: 'Slide 1', color: 'twitter', subtitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In!', image: require('../assets/undraw_medicine.svg')},
-                  { title: 'Slide 2', color: 'primary', subtitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In!', image: require('../assets/undraw_doctor.svg')},
-                  { title: 'Slide 3', color: 'info', subtitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In!', image: require('../assets/undraw_welcome.svg')},
-                  { title: 'Slide 4', color: 'success', subtitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In!', image: require('../assets/undraw_folder.svg')},
-                  { title: 'Slide 5', color: 'warning', subtitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In!', image: require('../assets/undraw_map.svg')},
-                  { title: 'Slide 6', color: 'danger', subtitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In!', image: require('../assets/undraw_connected_world.svg')}
+                  { title: 'Gambar 1', color: 'twitter', subtitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In!', image: require('../assets/undraw_medicine.svg')},
+                  { title: 'Gambar 2', color: 'primary', subtitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In!', image: require('../assets/undraw_doctor.svg')},
+                  { title: 'Gambar 3', color: 'info', subtitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In!', image: require('../assets/undraw_welcome.svg')},
+                  { title: 'Gambar 4', color: 'success', subtitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In!', image: require('../assets/undraw_folder.svg')},
+                  { title: 'Gambar 5', color: 'warning', subtitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In!', image: require('../assets/undraw_map.svg')},
+                  { title: 'Gambar 6', color: 'danger', subtitle: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In!', image: require('../assets/undraw_connected_world.svg')}
               ],
             // slide gk jelas
               test: 0,
